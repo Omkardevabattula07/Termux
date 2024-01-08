@@ -1,1 +1,4 @@
-hello there
+pkg update
+pkg upgrade
+pkg install sl
+sl
