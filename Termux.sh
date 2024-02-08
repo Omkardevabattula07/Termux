@@ -1,3 +1,6 @@
 apt update 
 apt upgrade
-echo "code is running"
+\n echo "code is running"
+apt install figlet 
+figlet ARTIST
+
